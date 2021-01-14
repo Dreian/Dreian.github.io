@@ -1,1 +1,1 @@
-<p>Start page.</p>
+Start page.
