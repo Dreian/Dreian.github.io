@@ -1,1 +1,3 @@
-Start page.
+---
+layout: home
+---
