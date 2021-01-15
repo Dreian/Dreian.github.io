@@ -26,6 +26,9 @@ I didn't do many contests on Codeforces and similar online judges).
 I still have a soft spot for the topic and I have been the Cambridge coach for
 [ICPC](https://icpc.global/) since the autumn of 2019.
 
+The picture above was taken by my wonderful partner [Aga Słowik](
+https://slowika.github.io/).
+
 ---
 
 Пре студија (праисторија) сам похађао
