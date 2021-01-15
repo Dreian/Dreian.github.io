@@ -21,8 +21,7 @@ Google.
 
 See my CV [here](/cv.pdf).
 
-In high school, I used to be into algorithms and competitive programming (though
-I didn't do many contests on Codeforces and similar online judges).
+In high school, I used to be into algorithms and competitive programming.
 I still have a soft spot for the topic and I have been the Cambridge coach for
 [ICPC](https://icpc.global/) since the autumn of 2019.
 
