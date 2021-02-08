@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Type-level graphs in Haskell"
-date:   2021-02-01 09:00:00 +0000
+date:   2021-02-15 09:00:00 +0000
 categories: jekyll update
 ---
 
